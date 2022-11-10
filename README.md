@@ -1,0 +1,2 @@
+# EazyFit
+EazyFit - Capstone Project
