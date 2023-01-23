@@ -1,2 +1,2 @@
-# EazyFit
-EazyFit - Capstone Project
+# EasyFit
+EasyFit - Capstone Project
